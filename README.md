@@ -1,2 +1,2 @@
-# LauchBase
-Desafios LauchBase
+# LaunchBase
+Desafios resolvidos do LaunchBase RockeSeat
